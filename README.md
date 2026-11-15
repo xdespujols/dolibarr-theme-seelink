@@ -1,0 +1,1 @@
+# dolibarr-theme-seelink
